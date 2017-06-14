@@ -1,0 +1,13 @@
+SetupTest
+InitTktypeTest
+macosx
+requires
+tk
+mactypes
+nontypes
+IsTypeTkTest
+alltypes
+mock
+FileList
+sys
+unittest
